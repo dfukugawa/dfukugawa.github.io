@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 大福 Daifuku-chan</title>
+    <link>https://daifuku-chan.com/posts/</link>
+    <description>Recent content in Posts on 大福 Daifuku-chan</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daifuku-chan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめてのHugo</title>
+      <link>https://daifuku-chan.com/posts/hello/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://daifuku-chan.com/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;こんにちは&#34;&gt;こんにちは&lt;/h1&gt;&#xA;&lt;p&gt;これは &lt;strong&gt;Hugoで書いた最初のページ&lt;/strong&gt; です。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Markdownで書ける&lt;/li&gt;&#xA;&lt;li&gt;HTMLを書かなくていい&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
