@@ -4,4 +4,17 @@
 &lt;li&gt;Markdownで書ける&lt;/li&gt;
 &lt;li&gt;HTMLを書かなくていい&lt;/li&gt;
 &lt;li&gt;GitHub にpushで自動更新&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description></item><item><title>Breakout Lab</title><link>https://daifuku-chan.com/games/breakout-lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://daifuku-chan.com/games/breakout-lab/</guid><description>&lt;p&gt;パドルでボールを跳ね返して、50個のブロックをすべて壊すとクリアです。&lt;/p&gt;
+&lt;iframe
+src="https://daifuku-chan.com/games/breakout-lab/play/"
+title="Breakout Lab ブロック崩し"
+allowfullscreen
+style="display:block;width:100%;aspect-ratio:4/3;border:0;background:#081326"
+&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://daifuku-chan.com/games/breakout-lab/play/"&gt;ゲームを単独ページで開く&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;移動&lt;/strong&gt; — マウス・トラックパッドを左右に動かします。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;発射・再開&lt;/strong&gt; — 左クリック、Space、Enter。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一時停止&lt;/strong&gt; — 右クリック、Esc。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;マウスまたはトラックパッドのあるPCでプレイできます。&lt;/p&gt;</description></item></channel></rss>
